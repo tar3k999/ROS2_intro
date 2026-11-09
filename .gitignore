@@ -1,0 +1,17 @@
+# Environment variables (security)
+.env
+.env.local
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build outputs
+dist/
+build/
+
+# IDE and System logs
+*.log
+.vscode/
+.DS_Store
+
