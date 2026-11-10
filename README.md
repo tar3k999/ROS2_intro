@@ -8,4 +8,4 @@ Goal: Learning Robotics
 
 Duration: 12 weeks
 
-This repository documents my ROS 2 learning journey.
+This repository documents my ROS 2 learning journey. It will be updated over time.
